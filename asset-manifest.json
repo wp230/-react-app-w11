@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/-react-app-w11/static/css/main.e6c13ad2.css",
+    "main.js": "/-react-app-w11/static/js/main.0dff0f01.js",
+    "static/js/787.a4b45000.chunk.js": "/-react-app-w11/static/js/787.a4b45000.chunk.js",
+    "static/media/머지사이드.png": "/-react-app-w11/static/media/머지사이드.71bd28bd0155724b24c3.png",
+    "static/media/성당.png": "/-react-app-w11/static/media/성당.db5117f52605bad0335c.png",
+    "static/media/Beatlesinliverpool.png": "/-react-app-w11/static/media/Beatlesinliverpool.5b343f9d7a1b00de6054.png",
+    "static/media/웰컴.png": "/-react-app-w11/static/media/웰컴.79b55a7b48b3c60aca0c.png",
+    "index.html": "/-react-app-w11/index.html",
+    "main.e6c13ad2.css.map": "/-react-app-w11/static/css/main.e6c13ad2.css.map",
+    "main.0dff0f01.js.map": "/-react-app-w11/static/js/main.0dff0f01.js.map",
+    "787.a4b45000.chunk.js.map": "/-react-app-w11/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0dff0f01.js"
+  ]
+}
